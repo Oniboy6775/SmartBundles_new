@@ -35,11 +35,11 @@ export const Footer = () => {
           <div className="">
             <div className=" ">
               <p className="uppercase text-blue-500">Office address</p>
-              <p>Adamo ikorodu Lagos state</p>
+              <p>No 53B Afolabi's building osin okete, ilorin, kwara state</p>
             </div>
             <div className=" ">
               <p className="uppercase text-blue-500">phone number</p>
-              <p>08022698888</p>
+              <p>08034825817</p>
             </div>
             <div className=" lowercase">
               <p className="uppercase text-blue-500">Contact us</p>
